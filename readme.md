@@ -4,7 +4,7 @@
 
 Installation :
 ```shell
-git clone https://github.com/ClementCariou/virtual-art-gallery.git
+
 npm install
 ```
 Start the budo dev server : 
