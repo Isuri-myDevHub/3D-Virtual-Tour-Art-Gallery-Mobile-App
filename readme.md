@@ -4,7 +4,7 @@
 
 Installation :
 ```shell
-
+https://github.com/Isuri-myDevHub/3D-Virtual-Tour-Art-Gallery-Mobile-App.git
 npm install
 ```
 Start the budo dev server : 
